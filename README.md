@@ -5,10 +5,6 @@
 <center> <a target="_blank" href="https://long-backpackstrap.tistory.com/" rel="noopener noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/DevBog-f5f0ff">
 </a></center>
 
-<h2>알고리즘</h2>
-
-[![코드트리|실력진단-sojung7373](https://banner.codetree.ai/v1/banner/sojung7373)](https://www.codetree.ai/profiles/sojung7373)
-
 <!--
 **gosjgo/gosjgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
