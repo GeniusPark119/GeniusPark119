@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SOJUNG%20PARK&fontSize=90)
 
  
-<h2>개발블로그</h2>
+개발블로그
 <center> <a target="_blank" href="https://long-backpackstrap.tistory.com/" rel="noopener noreferrer"><img alt="Static Badge" src="https://img.shields.io/badge/DevBog-f5f0ff">
 </a></center>
 
