@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SOJUNG%20PARK&fontSize=90)
 
+ 
+# 개발블로그 
+<center> <a href="https://long-backpackstrap.tistory.com/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/DevBog-f5f0ff">
+</a></center>
+
+
 <!--
 **gosjgo/gosjgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
